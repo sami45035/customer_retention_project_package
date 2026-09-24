@@ -1,0 +1,1001 @@
+customer_id,recency_days,frequency,monetary,avg_order_value,customer_tenure_days,segment
+12000,31,1,124.63,124.63,0,Active Low-Frequency / Promising
+12001,196,1,146.82,146.82,0,Lost / At-Risk One-Timers
+12002,86,4,573.17,143.29,169,Hibernating Need-Attention
+12003,60,2,183.92,91.96,244,Active Low-Frequency / Promising
+12004,12,3,252.15,84.05,58,Active Low-Frequency / Promising
+12005,12,2,336.5,168.25,179,Active Low-Frequency / Promising
+12006,4,2,297.21,148.6,187,Active Low-Frequency / Promising
+12007,131,3,376.93,125.64,374,Hibernating Need-Attention
+12008,60,1,103.24,103.24,0,Active Low-Frequency / Promising
+12009,81,1,96.29,96.29,0,Hibernating Need-Attention
+12010,2,1,83.5,83.5,0,Active Low-Frequency / Promising
+12011,228,12,579.66,48.3,292,Hibernating Need-Attention
+12012,117,5,716.86,143.37,411,Hibernating Need-Attention
+12013,16,1,77.08,77.08,0,Active Low-Frequency / Promising
+12014,14,2,245.68,122.84,174,Active Low-Frequency / Promising
+12015,14,5,446.43,89.29,254,Loyal High-Value Champions
+12016,24,1,144.18,144.18,0,Active Low-Frequency / Promising
+12017,49,2,303.88,151.94,248,Active Low-Frequency / Promising
+12018,37,5,215.54,43.11,287,Loyal High-Value Champions
+12019,23,1,189.59,189.59,0,Active Low-Frequency / Promising
+12020,62,2,308.77,154.38,151,Hibernating Need-Attention
+12021,10,1,129.97,129.97,0,Active Low-Frequency / Promising
+12022,23,5,773.08,154.62,281,Loyal High-Value Champions
+12023,30,8,386.19,48.27,197,Loyal High-Value Champions
+12024,40,5,433.25,86.65,68,Loyal High-Value Champions
+12025,100,1,92.03,92.03,0,Hibernating Need-Attention
+12026,15,4,626.08,156.52,39,Loyal High-Value Champions
+12027,47,3,495.15,165.05,192,Active Low-Frequency / Promising
+12028,59,1,123.88,123.88,0,Active Low-Frequency / Promising
+12029,4,3,385.9,128.63,188,Active Low-Frequency / Promising
+12030,61,1,72.88,72.88,0,Hibernating Need-Attention
+12031,13,2,231.47,115.74,109,Active Low-Frequency / Promising
+12032,5,1,160.54,160.54,0,Active Low-Frequency / Promising
+12033,194,1,152.26,152.26,0,Lost / At-Risk One-Timers
+12034,220,1,123.21,123.21,0,Lost / At-Risk One-Timers
+12035,108,2,173.06,86.53,262,Hibernating Need-Attention
+12036,24,1,80.83,80.83,0,Active Low-Frequency / Promising
+12037,7,2,309.81,154.9,173,Active Low-Frequency / Promising
+12038,75,1,68.28,68.28,0,Hibernating Need-Attention
+12039,38,1,104.17,104.17,0,Active Low-Frequency / Promising
+12040,9,1,143.45,143.45,0,Active Low-Frequency / Promising
+12041,45,3,481.67,160.56,159,Active Low-Frequency / Promising
+12042,3,1,103.59,103.59,0,Active Low-Frequency / Promising
+12043,157,2,131.09,65.54,363,Hibernating Need-Attention
+12044,20,4,605.41,151.35,177,Loyal High-Value Champions
+12045,71,2,299.98,149.99,220,Hibernating Need-Attention
+12046,25,1,74.92,74.92,0,Active Low-Frequency / Promising
+12047,48,1,139.13,139.13,0,Active Low-Frequency / Promising
+12048,52,4,424.5,106.12,215,Hibernating Need-Attention
+12049,14,1,64.33,64.33,0,Active Low-Frequency / Promising
+12050,228,4,373.14,93.28,492,Hibernating Need-Attention
+12051,97,1,126.31,126.31,0,Hibernating Need-Attention
+12052,183,5,306.81,61.36,290,Hibernating Need-Attention
+12053,147,3,449.03,149.68,295,Hibernating Need-Attention
+12054,60,20,2723.41,136.17,83,Hibernating Need-Attention
+12055,166,1,286.54,286.54,0,Hibernating Need-Attention
+12056,7,3,318.83,106.28,235,Active Low-Frequency / Promising
+12057,15,1,89.3,89.3,0,Active Low-Frequency / Promising
+12058,4,1,115.54,115.54,0,Active Low-Frequency / Promising
+12059,26,2,351.23,175.62,226,Active Low-Frequency / Promising
+12060,32,4,205.04,51.26,157,Loyal High-Value Champions
+12061,21,12,1161.33,96.78,239,Loyal High-Value Champions
+12062,115,3,431.81,143.94,240,Hibernating Need-Attention
+12063,29,1,139.38,139.38,0,Active Low-Frequency / Promising
+12064,22,1,97.99,97.99,0,Active Low-Frequency / Promising
+12065,51,2,268.54,134.27,178,Active Low-Frequency / Promising
+12066,10,1,62.91,62.91,0,Active Low-Frequency / Promising
+12067,106,1,236.09,236.09,0,Hibernating Need-Attention
+12068,6,1,72.56,72.56,0,Active Low-Frequency / Promising
+12069,282,1,132.68,132.68,0,Lost / At-Risk One-Timers
+12070,97,1,184.56,184.56,0,Hibernating Need-Attention
+12071,15,1,144.21,144.21,0,Active Low-Frequency / Promising
+12072,1,1,81.3,81.3,0,Active Low-Frequency / Promising
+12073,110,1,152.37,152.37,0,Hibernating Need-Attention
+12074,80,12,1686.57,140.55,129,Hibernating Need-Attention
+12075,85,1,236.3,236.3,0,Hibernating Need-Attention
+12076,96,1,212.89,212.89,0,Hibernating Need-Attention
+12077,6,2,184.87,92.44,121,Active Low-Frequency / Promising
+12078,29,1,156.76,156.76,0,Active Low-Frequency / Promising
+12079,9,5,769.39,153.88,253,Loyal High-Value Champions
+12080,130,3,195.66,65.22,191,Hibernating Need-Attention
+12081,64,1,154.45,154.45,0,Hibernating Need-Attention
+12082,27,1,102.35,102.35,0,Active Low-Frequency / Promising
+12083,5,4,604.34,151.08,261,Loyal High-Value Champions
+12084,25,5,556.67,111.33,66,Loyal High-Value Champions
+12085,26,1,151.75,151.75,0,Active Low-Frequency / Promising
+12086,86,2,129.43,64.72,347,Hibernating Need-Attention
+12087,66,1,113.02,113.02,0,Hibernating Need-Attention
+12088,142,20,2652.35,132.62,323,Hibernating Need-Attention
+12089,42,1,96.44,96.44,0,Active Low-Frequency / Promising
+12090,9,5,656.5,131.3,117,Loyal High-Value Champions
+12091,82,2,450.19,225.1,113,Hibernating Need-Attention
+12092,93,2,150.29,75.14,185,Hibernating Need-Attention
+12093,54,1,189.13,189.13,0,Active Low-Frequency / Promising
+12094,96,1,82.03,82.03,0,Hibernating Need-Attention
+12095,45,1,183.02,183.02,0,Active Low-Frequency / Promising
+12096,49,1,292.16,292.16,0,Active Low-Frequency / Promising
+12097,37,1,115.18,115.18,0,Active Low-Frequency / Promising
+12098,2,3,383.73,127.91,297,Active Low-Frequency / Promising
+12099,8,1,111.98,111.98,0,Active Low-Frequency / Promising
+12100,3,1,145.52,145.52,0,Active Low-Frequency / Promising
+12101,66,8,858.06,107.26,151,Hibernating Need-Attention
+12102,25,4,352.49,88.12,168,Loyal High-Value Champions
+12103,47,5,611.2,122.24,230,Hibernating Need-Attention
+12104,155,20,2560.14,128.01,333,Hibernating Need-Attention
+12105,19,1,103.34,103.34,0,Active Low-Frequency / Promising
+12106,35,1,198.56,198.56,0,Active Low-Frequency / Promising
+12107,92,3,419.48,139.83,305,Hibernating Need-Attention
+12108,17,2,185.43,92.72,51,Active Low-Frequency / Promising
+12109,6,1,195.69,195.69,0,Active Low-Frequency / Promising
+12110,23,3,217.2,72.4,143,Active Low-Frequency / Promising
+12111,12,1,76.08,76.08,0,Active Low-Frequency / Promising
+12112,173,1,122.86,122.86,0,Hibernating Need-Attention
+12113,108,1,143.13,143.13,0,Hibernating Need-Attention
+12114,66,2,235.06,117.53,195,Hibernating Need-Attention
+12115,134,2,218.43,109.22,299,Hibernating Need-Attention
+12116,106,1,155.54,155.54,0,Hibernating Need-Attention
+12117,14,4,431.42,107.86,195,Loyal High-Value Champions
+12118,146,1,63.46,63.46,0,Hibernating Need-Attention
+12119,51,1,149.13,149.13,0,Active Low-Frequency / Promising
+12120,108,4,529.38,132.34,163,Hibernating Need-Attention
+12121,148,8,778.8,97.35,340,Hibernating Need-Attention
+12122,25,4,588.76,147.19,66,Loyal High-Value Champions
+12123,8,3,288.57,96.19,233,Active Low-Frequency / Promising
+12124,17,2,362.48,181.24,163,Active Low-Frequency / Promising
+12125,37,2,273.61,136.8,273,Active Low-Frequency / Promising
+12126,111,1,165.68,165.68,0,Hibernating Need-Attention
+12127,129,1,62.49,62.49,0,Hibernating Need-Attention
+12128,1,1,288.31,288.31,0,Active Low-Frequency / Promising
+12129,47,1,178.18,178.18,0,Active Low-Frequency / Promising
+12130,36,2,197.45,98.72,250,Active Low-Frequency / Promising
+12131,17,1,127.96,127.96,0,Active Low-Frequency / Promising
+12132,9,1,236.51,236.51,0,Active Low-Frequency / Promising
+12133,27,1,137.3,137.3,0,Active Low-Frequency / Promising
+12134,187,2,249.43,124.72,355,Lost / At-Risk One-Timers
+12135,26,1,185.89,185.89,0,Active Low-Frequency / Promising
+12136,48,4,262.85,65.71,310,Hibernating Need-Attention
+12137,79,1,187.42,187.42,0,Hibernating Need-Attention
+12138,30,1,97.46,97.46,0,Active Low-Frequency / Promising
+12139,232,2,272.34,136.17,449,Lost / At-Risk One-Timers
+12140,214,3,413.48,137.83,320,Hibernating Need-Attention
+12141,19,1,226.26,226.26,0,Active Low-Frequency / Promising
+12142,45,2,280.16,140.08,263,Active Low-Frequency / Promising
+12143,24,2,187.8,93.9,89,Active Low-Frequency / Promising
+12144,22,1,107.49,107.49,0,Active Low-Frequency / Promising
+12145,3,4,544.5,136.12,66,Loyal High-Value Champions
+12146,62,3,384.41,128.14,250,Hibernating Need-Attention
+12147,46,2,213.62,106.81,109,Active Low-Frequency / Promising
+12148,4,4,454.87,113.72,121,Loyal High-Value Champions
+12149,22,4,554.72,138.68,302,Loyal High-Value Champions
+12150,156,2,203.49,101.74,284,Hibernating Need-Attention
+12151,18,3,191.62,63.87,141,Active Low-Frequency / Promising
+12152,11,2,297.76,148.88,286,Active Low-Frequency / Promising
+12153,44,2,289.61,144.8,269,Active Low-Frequency / Promising
+12154,276,2,131.36,65.68,338,Lost / At-Risk One-Timers
+12155,19,3,251.55,83.85,283,Active Low-Frequency / Promising
+12156,73,1,193.28,193.28,0,Hibernating Need-Attention
+12157,94,4,316.4,79.1,196,Hibernating Need-Attention
+12158,18,4,445.23,111.31,147,Loyal High-Value Champions
+12159,85,1,139.66,139.66,0,Hibernating Need-Attention
+12160,30,3,364.22,121.41,300,Active Low-Frequency / Promising
+12161,66,1,109.41,109.41,0,Hibernating Need-Attention
+12162,66,1,96.67,96.67,0,Hibernating Need-Attention
+12163,50,2,300.04,150.02,270,Active Low-Frequency / Promising
+12164,7,1,94.73,94.73,0,Active Low-Frequency / Promising
+12165,118,3,476.88,158.96,415,Hibernating Need-Attention
+12166,26,3,460.21,153.4,264,Active Low-Frequency / Promising
+12167,14,1,59.46,59.46,0,Active Low-Frequency / Promising
+12168,3,1,186.67,186.67,0,Active Low-Frequency / Promising
+12169,59,1,102.12,102.12,0,Active Low-Frequency / Promising
+12170,74,2,284.23,142.12,222,Hibernating Need-Attention
+12171,2,12,587.0,48.92,233,Loyal High-Value Champions
+12172,47,2,127.16,63.58,162,Active Low-Frequency / Promising
+12173,17,1,142.88,142.88,0,Active Low-Frequency / Promising
+12174,68,2,133.63,66.82,141,Hibernating Need-Attention
+12175,13,1,142.34,142.34,0,Active Low-Frequency / Promising
+12176,77,3,266.73,88.91,314,Hibernating Need-Attention
+12177,32,1,217.44,217.44,0,Active Low-Frequency / Promising
+12178,180,3,433.2,144.4,298,Hibernating Need-Attention
+12179,10,1,154.17,154.17,0,Active Low-Frequency / Promising
+12180,28,8,594.52,74.32,93,Loyal High-Value Champions
+12181,8,1,80.46,80.46,0,Active Low-Frequency / Promising
+12182,169,2,105.84,52.92,246,Hibernating Need-Attention
+12183,137,5,381.55,76.31,267,Hibernating Need-Attention
+12184,20,1,148.03,148.03,0,Active Low-Frequency / Promising
+12185,71,5,754.41,150.88,284,Hibernating Need-Attention
+12186,111,2,293.74,146.87,138,Hibernating Need-Attention
+12187,53,1,146.1,146.1,0,Active Low-Frequency / Promising
+12188,50,1,214.9,214.9,0,Active Low-Frequency / Promising
+12189,18,2,304.16,152.08,198,Active Low-Frequency / Promising
+12190,7,1,87.03,87.03,0,Active Low-Frequency / Promising
+12191,148,2,402.13,201.06,355,Hibernating Need-Attention
+12192,150,1,266.46,266.46,0,Hibernating Need-Attention
+12193,66,2,223.08,111.54,282,Hibernating Need-Attention
+12194,27,1,74.09,74.09,0,Active Low-Frequency / Promising
+12195,28,4,391.93,97.98,259,Loyal High-Value Champions
+12196,85,8,866.73,108.34,213,Hibernating Need-Attention
+12197,148,8,1185.32,148.16,443,Hibernating Need-Attention
+12198,142,2,205.67,102.84,234,Hibernating Need-Attention
+12199,99,1,106.78,106.78,0,Hibernating Need-Attention
+12200,67,3,482.65,160.88,346,Hibernating Need-Attention
+12201,6,1,87.15,87.15,0,Active Low-Frequency / Promising
+12202,12,1,97.26,97.26,0,Active Low-Frequency / Promising
+12203,149,1,142.51,142.51,0,Hibernating Need-Attention
+12204,61,1,177.89,177.89,0,Hibernating Need-Attention
+12205,1,3,513.94,171.31,191,Active Low-Frequency / Promising
+12206,7,2,239.47,119.74,167,Active Low-Frequency / Promising
+12207,71,1,203.4,203.4,0,Hibernating Need-Attention
+12208,1,1,101.06,101.06,0,Active Low-Frequency / Promising
+12209,12,20,2850.84,142.54,83,Loyal High-Value Champions
+12210,52,1,131.68,131.68,0,Active Low-Frequency / Promising
+12211,77,1,184.53,184.53,0,Hibernating Need-Attention
+12212,69,1,51.86,51.86,0,Hibernating Need-Attention
+12213,17,3,496.93,165.64,236,Active Low-Frequency / Promising
+12214,81,2,252.91,126.46,340,Hibernating Need-Attention
+12215,18,1,79.78,79.78,0,Active Low-Frequency / Promising
+12216,26,1,140.27,140.27,0,Active Low-Frequency / Promising
+12217,90,2,142.03,71.02,186,Hibernating Need-Attention
+12218,69,2,335.43,167.72,225,Hibernating Need-Attention
+12219,123,1,118.3,118.3,0,Hibernating Need-Attention
+12220,70,8,975.42,121.93,300,Hibernating Need-Attention
+12221,55,1,108.28,108.28,0,Active Low-Frequency / Promising
+12222,7,1,54.98,54.98,0,Active Low-Frequency / Promising
+12223,30,5,334.01,66.8,317,Loyal High-Value Champions
+12224,21,1,50.43,50.43,0,Active Low-Frequency / Promising
+12225,19,2,293.88,146.94,305,Active Low-Frequency / Promising
+12226,235,1,86.96,86.96,0,Lost / At-Risk One-Timers
+12227,33,1,127.69,127.69,0,Active Low-Frequency / Promising
+12228,145,12,877.92,73.16,175,Hibernating Need-Attention
+12229,65,1,85.57,85.57,0,Hibernating Need-Attention
+12230,103,4,523.62,130.9,397,Hibernating Need-Attention
+12231,46,1,92.09,92.09,0,Active Low-Frequency / Promising
+12232,56,1,153.39,153.39,0,Active Low-Frequency / Promising
+12233,45,1,136.72,136.72,0,Active Low-Frequency / Promising
+12234,15,2,251.72,125.86,266,Active Low-Frequency / Promising
+12235,84,1,118.6,118.6,0,Hibernating Need-Attention
+12236,22,4,565.01,141.25,304,Loyal High-Value Champions
+12237,2,1,221.16,221.16,0,Active Low-Frequency / Promising
+12238,68,8,437.39,54.67,241,Hibernating Need-Attention
+12239,13,1,107.04,107.04,0,Active Low-Frequency / Promising
+12240,184,4,536.49,134.12,254,Hibernating Need-Attention
+12241,201,3,159.45,53.15,337,Hibernating Need-Attention
+12242,161,3,351.25,117.08,226,Hibernating Need-Attention
+12243,31,3,508.1,169.37,138,Active Low-Frequency / Promising
+12244,2,3,462.94,154.31,229,Active Low-Frequency / Promising
+12245,172,2,204.14,102.07,460,Hibernating Need-Attention
+12246,37,1,81.67,81.67,0,Active Low-Frequency / Promising
+12247,222,1,158.0,158.0,0,Lost / At-Risk One-Timers
+12248,216,5,631.65,126.33,289,Hibernating Need-Attention
+12249,125,2,155.19,77.6,260,Hibernating Need-Attention
+12250,23,3,188.99,63.0,160,Active Low-Frequency / Promising
+12251,32,1,146.19,146.19,0,Active Low-Frequency / Promising
+12252,124,1,160.14,160.14,0,Hibernating Need-Attention
+12253,25,1,137.45,137.45,0,Active Low-Frequency / Promising
+12254,13,2,293.94,146.97,154,Active Low-Frequency / Promising
+12255,53,1,110.6,110.6,0,Active Low-Frequency / Promising
+12256,179,1,155.81,155.81,0,Hibernating Need-Attention
+12257,78,1,98.9,98.9,0,Hibernating Need-Attention
+12258,55,1,99.73,99.73,0,Active Low-Frequency / Promising
+12259,7,2,288.62,144.31,261,Active Low-Frequency / Promising
+12260,63,1,136.55,136.55,0,Hibernating Need-Attention
+12261,300,3,354.08,118.03,373,Hibernating Need-Attention
+12262,10,1,165.35,165.35,0,Active Low-Frequency / Promising
+12263,48,1,89.69,89.69,0,Active Low-Frequency / Promising
+12264,137,1,185.47,185.47,0,Hibernating Need-Attention
+12265,88,1,113.02,113.02,0,Hibernating Need-Attention
+12266,78,1,137.23,137.23,0,Hibernating Need-Attention
+12267,79,1,158.42,158.42,0,Hibernating Need-Attention
+12268,29,2,181.74,90.87,286,Active Low-Frequency / Promising
+12269,23,1,154.7,154.7,0,Active Low-Frequency / Promising
+12270,108,2,117.53,58.76,300,Hibernating Need-Attention
+12271,108,4,329.69,82.42,206,Hibernating Need-Attention
+12272,132,3,345.2,115.07,261,Hibernating Need-Attention
+12273,159,1,150.1,150.1,0,Hibernating Need-Attention
+12274,47,1,234.99,234.99,0,Active Low-Frequency / Promising
+12275,46,1,192.2,192.2,0,Active Low-Frequency / Promising
+12276,105,1,214.47,214.47,0,Hibernating Need-Attention
+12277,69,12,1181.46,98.46,152,Hibernating Need-Attention
+12278,79,1,130.05,130.05,0,Hibernating Need-Attention
+12279,104,1,126.21,126.21,0,Hibernating Need-Attention
+12280,144,2,165.98,82.99,250,Hibernating Need-Attention
+12281,27,2,169.74,84.87,263,Active Low-Frequency / Promising
+12282,31,2,280.49,140.24,57,Active Low-Frequency / Promising
+12283,7,1,152.11,152.11,0,Active Low-Frequency / Promising
+12284,57,1,86.8,86.8,0,Active Low-Frequency / Promising
+12285,3,1,74.39,74.39,0,Active Low-Frequency / Promising
+12286,41,1,171.41,171.41,0,Active Low-Frequency / Promising
+12287,51,1,157.81,157.81,0,Active Low-Frequency / Promising
+12288,22,1,209.05,209.05,0,Active Low-Frequency / Promising
+12289,59,1,72.95,72.95,0,Active Low-Frequency / Promising
+12290,3,1,110.65,110.65,0,Active Low-Frequency / Promising
+12291,3,1,175.8,175.8,0,Active Low-Frequency / Promising
+12292,113,2,150.2,75.1,136,Hibernating Need-Attention
+12293,30,2,232.66,116.33,181,Active Low-Frequency / Promising
+12294,9,3,294.02,98.01,246,Active Low-Frequency / Promising
+12295,49,1,44.29,44.29,0,Active Low-Frequency / Promising
+12296,96,1,116.35,116.35,0,Hibernating Need-Attention
+12297,16,1,47.89,47.89,0,Active Low-Frequency / Promising
+12298,64,2,127.3,63.65,261,Hibernating Need-Attention
+12299,6,2,235.98,117.99,214,Active Low-Frequency / Promising
+12300,4,1,156.7,156.7,0,Active Low-Frequency / Promising
+12301,50,5,808.22,161.64,322,Hibernating Need-Attention
+12302,51,1,137.34,137.34,0,Active Low-Frequency / Promising
+12303,66,1,91.65,91.65,0,Hibernating Need-Attention
+12304,85,2,297.42,148.71,136,Hibernating Need-Attention
+12305,243,4,356.27,89.07,408,Hibernating Need-Attention
+12306,48,2,122.46,61.23,223,Active Low-Frequency / Promising
+12307,26,3,327.19,109.06,61,Active Low-Frequency / Promising
+12308,104,1,75.59,75.59,0,Hibernating Need-Attention
+12309,21,3,265.13,88.38,291,Active Low-Frequency / Promising
+12310,38,1,159.95,159.95,0,Active Low-Frequency / Promising
+12311,6,4,598.12,149.53,56,Loyal High-Value Champions
+12312,2,1,155.97,155.97,0,Active Low-Frequency / Promising
+12313,214,3,352.17,117.39,250,Hibernating Need-Attention
+12314,118,1,161.48,161.48,0,Hibernating Need-Attention
+12315,78,2,163.12,81.56,136,Hibernating Need-Attention
+12316,35,1,103.3,103.3,0,Active Low-Frequency / Promising
+12317,13,2,167.07,83.54,62,Active Low-Frequency / Promising
+12318,12,1,168.01,168.01,0,Active Low-Frequency / Promising
+12319,19,1,159.31,159.31,0,Active Low-Frequency / Promising
+12320,52,1,179.59,179.59,0,Active Low-Frequency / Promising
+12321,82,1,121.98,121.98,0,Hibernating Need-Attention
+12322,71,4,500.21,125.05,198,Hibernating Need-Attention
+12323,22,1,117.85,117.85,0,Active Low-Frequency / Promising
+12324,202,12,1643.56,136.96,443,Hibernating Need-Attention
+12325,88,1,214.72,214.72,0,Hibernating Need-Attention
+12326,53,1,211.56,211.56,0,Active Low-Frequency / Promising
+12327,62,3,157.01,52.34,262,Hibernating Need-Attention
+12328,36,2,227.57,113.78,310,Active Low-Frequency / Promising
+12329,19,1,101.23,101.23,0,Active Low-Frequency / Promising
+12330,29,2,185.12,92.56,305,Active Low-Frequency / Promising
+12331,93,2,160.88,80.44,199,Hibernating Need-Attention
+12332,1,1,115.73,115.73,0,Active Low-Frequency / Promising
+12333,9,20,2321.34,116.07,265,Loyal High-Value Champions
+12334,4,8,531.3,66.41,93,Loyal High-Value Champions
+12335,3,2,233.75,116.88,66,Active Low-Frequency / Promising
+12336,126,1,209.61,209.61,0,Hibernating Need-Attention
+12337,80,2,232.28,116.14,251,Hibernating Need-Attention
+12338,42,1,98.77,98.77,0,Active Low-Frequency / Promising
+12339,7,1,139.17,139.17,0,Active Low-Frequency / Promising
+12340,44,1,232.6,232.6,0,Active Low-Frequency / Promising
+12341,42,1,91.04,91.04,0,Active Low-Frequency / Promising
+12342,13,4,245.32,61.33,286,Loyal High-Value Champions
+12343,37,2,166.56,83.28,86,Active Low-Frequency / Promising
+12344,34,2,319.29,159.65,302,Active Low-Frequency / Promising
+12345,63,1,176.55,176.55,0,Hibernating Need-Attention
+12346,66,1,130.45,130.45,0,Hibernating Need-Attention
+12347,4,1,91.11,91.11,0,Active Low-Frequency / Promising
+12348,31,12,1282.46,106.87,168,Loyal High-Value Champions
+12349,64,1,54.94,54.94,0,Hibernating Need-Attention
+12350,46,4,451.98,113.0,311,Hibernating Need-Attention
+12351,127,2,308.58,154.29,393,Hibernating Need-Attention
+12352,70,1,226.59,226.59,0,Hibernating Need-Attention
+12353,12,2,307.58,153.79,192,Active Low-Frequency / Promising
+12354,5,1,130.04,130.04,0,Active Low-Frequency / Promising
+12355,67,4,217.05,54.26,276,Hibernating Need-Attention
+12356,2,4,616.64,154.16,138,Loyal High-Value Champions
+12357,58,1,71.44,71.44,0,Active Low-Frequency / Promising
+12358,184,1,184.99,184.99,0,Lost / At-Risk One-Timers
+12359,56,2,165.14,82.57,255,Active Low-Frequency / Promising
+12360,32,5,285.98,57.2,223,Loyal High-Value Champions
+12361,68,1,102.29,102.29,0,Hibernating Need-Attention
+12362,40,2,203.85,101.92,318,Active Low-Frequency / Promising
+12363,52,2,202.25,101.12,206,Active Low-Frequency / Promising
+12364,185,2,346.88,173.44,375,Lost / At-Risk One-Timers
+12365,32,1,95.39,95.39,0,Active Low-Frequency / Promising
+12366,212,2,126.68,63.34,467,Lost / At-Risk One-Timers
+12367,154,4,421.5,105.38,359,Hibernating Need-Attention
+12368,15,1,88.34,88.34,0,Active Low-Frequency / Promising
+12369,5,1,179.52,179.52,0,Active Low-Frequency / Promising
+12370,7,8,906.36,113.3,94,Loyal High-Value Champions
+12371,2,1,178.25,178.25,0,Active Low-Frequency / Promising
+12372,7,4,480.07,120.02,222,Loyal High-Value Champions
+12373,75,1,141.52,141.52,0,Hibernating Need-Attention
+12374,5,1,198.38,198.38,0,Active Low-Frequency / Promising
+12375,25,4,356.43,89.11,66,Loyal High-Value Champions
+12376,122,1,145.23,145.23,0,Hibernating Need-Attention
+12377,2,1,137.18,137.18,0,Active Low-Frequency / Promising
+12378,110,1,93.73,93.73,0,Hibernating Need-Attention
+12379,22,2,315.67,157.84,226,Active Low-Frequency / Promising
+12380,9,1,153.44,153.44,0,Active Low-Frequency / Promising
+12381,78,1,162.64,162.64,0,Hibernating Need-Attention
+12382,65,8,1128.22,141.03,335,Hibernating Need-Attention
+12383,137,1,102.44,102.44,0,Hibernating Need-Attention
+12384,87,2,151.86,75.93,273,Hibernating Need-Attention
+12385,106,1,209.72,209.72,0,Hibernating Need-Attention
+12386,22,3,256.43,85.48,261,Active Low-Frequency / Promising
+12387,13,1,146.87,146.87,0,Active Low-Frequency / Promising
+12388,91,8,942.9,117.86,229,Hibernating Need-Attention
+12389,107,1,170.68,170.68,0,Hibernating Need-Attention
+12390,303,1,100.71,100.71,0,Lost / At-Risk One-Timers
+12391,35,1,172.45,172.45,0,Active Low-Frequency / Promising
+12392,31,1,196.87,196.87,0,Active Low-Frequency / Promising
+12393,98,1,75.36,75.36,0,Hibernating Need-Attention
+12394,28,1,253.52,253.52,0,Active Low-Frequency / Promising
+12395,174,3,512.22,170.74,444,Hibernating Need-Attention
+12396,128,1,144.26,144.26,0,Hibernating Need-Attention
+12397,37,1,135.97,135.97,0,Active Low-Frequency / Promising
+12398,91,2,236.4,118.2,376,Hibernating Need-Attention
+12399,92,2,263.1,131.55,140,Hibernating Need-Attention
+12400,8,1,80.95,80.95,0,Active Low-Frequency / Promising
+12401,152,1,52.87,52.87,0,Hibernating Need-Attention
+12402,46,1,425.35,425.35,0,Active Low-Frequency / Promising
+12403,114,2,168.24,84.12,210,Hibernating Need-Attention
+12404,26,2,297.92,148.96,192,Active Low-Frequency / Promising
+12405,147,1,188.8,188.8,0,Hibernating Need-Attention
+12406,33,3,337.92,112.64,60,Active Low-Frequency / Promising
+12407,1,3,494.11,164.7,142,Active Low-Frequency / Promising
+12408,154,2,311.19,155.6,348,Hibernating Need-Attention
+12409,7,4,361.82,90.46,205,Loyal High-Value Champions
+12410,26,1,142.19,142.19,0,Active Low-Frequency / Promising
+12411,195,1,62.43,62.43,0,Lost / At-Risk One-Timers
+12412,196,1,94.55,94.55,0,Lost / At-Risk One-Timers
+12413,56,1,65.38,65.38,0,Active Low-Frequency / Promising
+12414,65,1,172.16,172.16,0,Hibernating Need-Attention
+12415,39,5,771.97,154.39,67,Loyal High-Value Champions
+12416,23,1,101.02,101.02,0,Active Low-Frequency / Promising
+12417,26,1,97.4,97.4,0,Active Low-Frequency / Promising
+12418,73,1,56.6,56.6,0,Hibernating Need-Attention
+12419,91,5,414.12,82.82,388,Hibernating Need-Attention
+12420,102,1,129.87,129.87,0,Hibernating Need-Attention
+12421,102,1,91.44,91.44,0,Hibernating Need-Attention
+12422,7,1,195.02,195.02,0,Active Low-Frequency / Promising
+12423,45,1,92.42,92.42,0,Active Low-Frequency / Promising
+12424,4,12,952.54,79.38,133,Loyal High-Value Champions
+12425,52,8,1160.39,145.05,271,Hibernating Need-Attention
+12426,38,1,94.21,94.21,0,Active Low-Frequency / Promising
+12427,143,8,1210.2,151.28,350,Hibernating Need-Attention
+12428,29,2,248.99,124.5,202,Active Low-Frequency / Promising
+12429,9,4,595.11,148.78,307,Loyal High-Value Champions
+12430,11,1,149.81,149.81,0,Active Low-Frequency / Promising
+12431,94,1,364.71,364.71,0,Hibernating Need-Attention
+12432,63,1,218.92,218.92,0,Hibernating Need-Attention
+12433,7,2,172.65,86.32,44,Active Low-Frequency / Promising
+12434,6,1,207.17,207.17,0,Active Low-Frequency / Promising
+12435,79,1,107.49,107.49,0,Hibernating Need-Attention
+12436,5,1,95.4,95.4,0,Active Low-Frequency / Promising
+12437,113,2,200.31,100.16,278,Hibernating Need-Attention
+12438,80,1,231.24,231.24,0,Hibernating Need-Attention
+12439,6,2,246.26,123.13,204,Active Low-Frequency / Promising
+12440,6,8,828.19,103.52,81,Loyal High-Value Champions
+12441,281,1,137.09,137.09,0,Lost / At-Risk One-Timers
+12442,31,2,259.51,129.76,210,Active Low-Frequency / Promising
+12443,31,1,403.36,403.36,0,Active Low-Frequency / Promising
+12444,109,4,552.27,138.07,265,Hibernating Need-Attention
+12445,192,1,125.68,125.68,0,Lost / At-Risk One-Timers
+12446,278,2,218.64,109.32,517,Lost / At-Risk One-Timers
+12447,91,3,247.01,82.34,178,Hibernating Need-Attention
+12448,31,5,276.67,55.33,299,Loyal High-Value Champions
+12449,6,2,158.08,79.04,31,Active Low-Frequency / Promising
+12450,98,1,100.05,100.05,0,Hibernating Need-Attention
+12451,54,2,348.78,174.39,167,Active Low-Frequency / Promising
+12452,36,4,461.98,115.5,324,Loyal High-Value Champions
+12453,154,2,179.75,89.88,370,Hibernating Need-Attention
+12454,8,1,245.95,245.95,0,Active Low-Frequency / Promising
+12455,45,5,285.72,57.14,212,Loyal High-Value Champions
+12456,1,2,212.38,106.19,138,Active Low-Frequency / Promising
+12457,42,2,276.47,138.24,127,Active Low-Frequency / Promising
+12458,4,1,153.5,153.5,0,Active Low-Frequency / Promising
+12459,9,2,220.69,110.34,104,Active Low-Frequency / Promising
+12460,9,1,165.42,165.42,0,Active Low-Frequency / Promising
+12461,69,2,282.16,141.08,199,Hibernating Need-Attention
+12462,90,1,159.1,159.1,0,Hibernating Need-Attention
+12463,57,2,250.99,125.5,279,Active Low-Frequency / Promising
+12464,213,20,2175.34,108.77,379,Hibernating Need-Attention
+12465,31,1,123.21,123.21,0,Active Low-Frequency / Promising
+12466,22,12,1031.95,86.0,67,Loyal High-Value Champions
+12467,132,1,99.44,99.44,0,Hibernating Need-Attention
+12468,17,4,460.05,115.01,50,Loyal High-Value Champions
+12469,215,3,308.5,102.83,279,Hibernating Need-Attention
+12470,1,2,131.07,65.54,236,Active Low-Frequency / Promising
+12471,228,2,367.59,183.8,480,Lost / At-Risk One-Timers
+12472,3,4,607.2,151.8,215,Loyal High-Value Champions
+12473,145,1,179.57,179.57,0,Hibernating Need-Attention
+12474,49,1,189.73,189.73,0,Active Low-Frequency / Promising
+12475,323,2,352.57,176.28,493,Lost / At-Risk One-Timers
+12476,5,3,325.22,108.41,299,Active Low-Frequency / Promising
+12477,53,3,419.25,139.75,148,Active Low-Frequency / Promising
+12478,227,3,194.71,64.9,466,Hibernating Need-Attention
+12479,49,1,153.06,153.06,0,Active Low-Frequency / Promising
+12480,65,3,219.35,73.12,112,Hibernating Need-Attention
+12481,78,1,178.98,178.98,0,Hibernating Need-Attention
+12482,40,1,160.06,160.06,0,Active Low-Frequency / Promising
+12483,65,1,183.48,183.48,0,Hibernating Need-Attention
+12484,58,1,134.65,134.65,0,Active Low-Frequency / Promising
+12485,151,1,192.84,192.84,0,Hibernating Need-Attention
+12486,4,1,115.09,115.09,0,Active Low-Frequency / Promising
+12487,22,2,272.65,136.32,139,Active Low-Frequency / Promising
+12488,196,1,106.37,106.37,0,Lost / At-Risk One-Timers
+12489,144,1,108.81,108.81,0,Hibernating Need-Attention
+12490,40,1,75.85,75.85,0,Active Low-Frequency / Promising
+12491,63,1,109.03,109.03,0,Hibernating Need-Attention
+12492,22,1,230.22,230.22,0,Active Low-Frequency / Promising
+12493,14,1,189.76,189.76,0,Active Low-Frequency / Promising
+12494,41,2,246.28,123.14,88,Active Low-Frequency / Promising
+12495,29,2,200.18,100.09,221,Active Low-Frequency / Promising
+12496,57,2,306.39,153.2,122,Active Low-Frequency / Promising
+12497,6,1,243.83,243.83,0,Active Low-Frequency / Promising
+12498,239,1,158.83,158.83,0,Lost / At-Risk One-Timers
+12499,279,4,406.2,101.55,383,Hibernating Need-Attention
+12500,78,1,147.91,147.91,0,Hibernating Need-Attention
+12501,50,1,205.23,205.23,0,Active Low-Frequency / Promising
+12502,25,1,397.68,397.68,0,Active Low-Frequency / Promising
+12503,110,1,146.69,146.69,0,Hibernating Need-Attention
+12504,76,1,175.88,175.88,0,Hibernating Need-Attention
+12505,12,1,100.75,100.75,0,Active Low-Frequency / Promising
+12506,158,2,449.18,224.59,241,Hibernating Need-Attention
+12507,113,1,119.58,119.58,0,Hibernating Need-Attention
+12508,195,2,360.33,180.16,291,Lost / At-Risk One-Timers
+12509,85,3,417.94,139.31,250,Hibernating Need-Attention
+12510,62,3,161.03,53.68,306,Hibernating Need-Attention
+12511,36,2,277.83,138.92,158,Active Low-Frequency / Promising
+12512,176,8,899.66,112.46,283,Hibernating Need-Attention
+12513,131,1,181.05,181.05,0,Hibernating Need-Attention
+12514,4,1,204.64,204.64,0,Active Low-Frequency / Promising
+12515,2,1,280.91,280.91,0,Active Low-Frequency / Promising
+12516,31,2,88.65,44.32,100,Active Low-Frequency / Promising
+12517,109,4,394.17,98.54,262,Hibernating Need-Attention
+12518,284,1,119.33,119.33,0,Lost / At-Risk One-Timers
+12519,11,5,609.33,121.87,275,Loyal High-Value Champions
+12520,59,1,129.21,129.21,0,Active Low-Frequency / Promising
+12521,32,5,305.6,61.12,72,Loyal High-Value Champions
+12522,228,1,88.57,88.57,0,Lost / At-Risk One-Timers
+12523,120,1,84.78,84.78,0,Hibernating Need-Attention
+12524,119,1,137.65,137.65,0,Hibernating Need-Attention
+12525,42,1,78.63,78.63,0,Active Low-Frequency / Promising
+12526,35,1,243.92,243.92,0,Active Low-Frequency / Promising
+12527,21,1,216.53,216.53,0,Active Low-Frequency / Promising
+12528,4,3,294.65,98.22,269,Active Low-Frequency / Promising
+12529,131,1,178.73,178.73,0,Hibernating Need-Attention
+12530,109,1,130.76,130.76,0,Hibernating Need-Attention
+12531,532,2,342.31,171.16,579,Lost / At-Risk One-Timers
+12532,371,2,164.56,82.28,415,Lost / At-Risk One-Timers
+12533,53,1,59.36,59.36,0,Active Low-Frequency / Promising
+12534,96,1,134.4,134.4,0,Hibernating Need-Attention
+12535,189,1,138.7,138.7,0,Lost / At-Risk One-Timers
+12536,124,1,136.27,136.27,0,Hibernating Need-Attention
+12537,19,2,133.38,66.69,113,Active Low-Frequency / Promising
+12538,39,1,178.92,178.92,0,Active Low-Frequency / Promising
+12539,9,1,127.81,127.81,0,Active Low-Frequency / Promising
+12540,201,2,236.7,118.35,479,Lost / At-Risk One-Timers
+12541,61,1,207.05,207.05,0,Hibernating Need-Attention
+12542,17,2,274.05,137.02,188,Active Low-Frequency / Promising
+12543,73,1,128.47,128.47,0,Hibernating Need-Attention
+12544,63,8,497.97,62.25,228,Hibernating Need-Attention
+12545,29,1,102.06,102.06,0,Active Low-Frequency / Promising
+12546,8,3,149.94,49.98,264,Active Low-Frequency / Promising
+12547,73,2,202.79,101.4,127,Hibernating Need-Attention
+12548,48,1,102.79,102.79,0,Active Low-Frequency / Promising
+12549,97,2,135.96,67.98,117,Hibernating Need-Attention
+12550,48,8,708.39,88.55,220,Hibernating Need-Attention
+12551,125,2,111.8,55.9,270,Hibernating Need-Attention
+12552,53,3,430.18,143.39,298,Active Low-Frequency / Promising
+12553,54,4,612.19,153.05,294,Hibernating Need-Attention
+12554,137,1,55.73,55.73,0,Hibernating Need-Attention
+12555,34,1,193.97,193.97,0,Active Low-Frequency / Promising
+12556,10,2,210.95,105.48,45,Active Low-Frequency / Promising
+12557,2,1,106.41,106.41,0,Active Low-Frequency / Promising
+12558,92,3,149.66,49.89,240,Hibernating Need-Attention
+12559,63,4,411.05,102.76,124,Hibernating Need-Attention
+12560,80,1,145.69,145.69,0,Hibernating Need-Attention
+12561,16,1,204.19,204.19,0,Active Low-Frequency / Promising
+12562,10,3,139.51,46.5,74,Active Low-Frequency / Promising
+12563,1,1,75.14,75.14,0,Active Low-Frequency / Promising
+12564,29,3,283.61,94.54,69,Active Low-Frequency / Promising
+12565,58,1,137.03,137.03,0,Active Low-Frequency / Promising
+12566,33,2,173.82,86.91,122,Active Low-Frequency / Promising
+12567,38,1,125.92,125.92,0,Active Low-Frequency / Promising
+12568,153,2,331.81,165.9,211,Hibernating Need-Attention
+12569,28,1,241.31,241.31,0,Active Low-Frequency / Promising
+12570,47,2,187.96,93.98,96,Active Low-Frequency / Promising
+12571,100,1,178.28,178.28,0,Hibernating Need-Attention
+12572,33,2,242.39,121.2,326,Active Low-Frequency / Promising
+12573,64,4,597.22,149.3,171,Hibernating Need-Attention
+12574,129,1,175.01,175.01,0,Hibernating Need-Attention
+12575,195,1,133.67,133.67,0,Lost / At-Risk One-Timers
+12576,11,1,158.54,158.54,0,Active Low-Frequency / Promising
+12577,170,2,246.38,123.19,380,Hibernating Need-Attention
+12578,45,2,226.39,113.2,232,Active Low-Frequency / Promising
+12579,20,1,145.18,145.18,0,Active Low-Frequency / Promising
+12580,40,1,86.52,86.52,0,Active Low-Frequency / Promising
+12581,255,1,228.83,228.83,0,Lost / At-Risk One-Timers
+12582,45,2,213.1,106.55,218,Active Low-Frequency / Promising
+12583,26,1,187.66,187.66,0,Active Low-Frequency / Promising
+12584,66,12,1279.45,106.62,357,Hibernating Need-Attention
+12585,18,1,128.62,128.62,0,Active Low-Frequency / Promising
+12586,6,2,126.05,63.02,124,Active Low-Frequency / Promising
+12587,9,1,186.96,186.96,0,Active Low-Frequency / Promising
+12588,9,1,73.35,73.35,0,Active Low-Frequency / Promising
+12589,11,2,248.0,124.0,291,Active Low-Frequency / Promising
+12590,10,2,412.21,206.1,305,Active Low-Frequency / Promising
+12591,67,20,2578.36,128.92,165,Hibernating Need-Attention
+12592,14,1,142.71,142.71,0,Active Low-Frequency / Promising
+12593,28,1,140.51,140.51,0,Active Low-Frequency / Promising
+12594,148,2,145.06,72.53,425,Hibernating Need-Attention
+12595,42,2,302.32,151.16,154,Active Low-Frequency / Promising
+12596,72,1,82.91,82.91,0,Hibernating Need-Attention
+12597,13,1,134.86,134.86,0,Active Low-Frequency / Promising
+12598,14,1,94.54,94.54,0,Active Low-Frequency / Promising
+12599,3,4,273.07,68.27,211,Loyal High-Value Champions
+12600,13,1,116.86,116.86,0,Active Low-Frequency / Promising
+12601,22,1,88.28,88.28,0,Active Low-Frequency / Promising
+12602,13,1,132.6,132.6,0,Active Low-Frequency / Promising
+12603,7,1,91.27,91.27,0,Active Low-Frequency / Promising
+12604,9,1,52.36,52.36,0,Active Low-Frequency / Promising
+12605,41,1,106.32,106.32,0,Active Low-Frequency / Promising
+12606,16,1,132.51,132.51,0,Active Low-Frequency / Promising
+12607,30,3,227.96,75.99,166,Active Low-Frequency / Promising
+12608,46,1,248.72,248.72,0,Active Low-Frequency / Promising
+12609,77,1,222.1,222.1,0,Hibernating Need-Attention
+12610,3,4,571.65,142.91,186,Loyal High-Value Champions
+12611,105,2,88.56,44.28,265,Hibernating Need-Attention
+12612,65,1,90.61,90.61,0,Hibernating Need-Attention
+12613,6,1,201.41,201.41,0,Active Low-Frequency / Promising
+12614,135,1,97.68,97.68,0,Hibernating Need-Attention
+12615,165,2,106.97,53.48,257,Hibernating Need-Attention
+12616,5,20,1633.2,81.66,223,Loyal High-Value Champions
+12617,22,2,232.74,116.37,171,Active Low-Frequency / Promising
+12618,107,2,344.86,172.43,372,Hibernating Need-Attention
+12619,90,2,158.56,79.28,169,Hibernating Need-Attention
+12620,14,1,182.64,182.64,0,Active Low-Frequency / Promising
+12621,16,1,150.56,150.56,0,Active Low-Frequency / Promising
+12622,31,2,187.75,93.88,201,Active Low-Frequency / Promising
+12623,44,8,1224.35,153.04,220,Loyal High-Value Champions
+12624,63,1,95.87,95.87,0,Hibernating Need-Attention
+12625,30,2,307.37,153.68,228,Active Low-Frequency / Promising
+12626,41,1,49.85,49.85,0,Active Low-Frequency / Promising
+12627,90,1,217.84,217.84,0,Hibernating Need-Attention
+12628,3,1,172.97,172.97,0,Active Low-Frequency / Promising
+12629,19,1,131.99,131.99,0,Active Low-Frequency / Promising
+12630,82,3,398.16,132.72,337,Hibernating Need-Attention
+12631,147,1,125.67,125.67,0,Hibernating Need-Attention
+12632,47,2,111.61,55.8,275,Active Low-Frequency / Promising
+12633,50,3,196.73,65.58,199,Active Low-Frequency / Promising
+12634,8,5,597.1,119.42,180,Loyal High-Value Champions
+12635,39,1,146.59,146.59,0,Active Low-Frequency / Promising
+12636,50,1,273.02,273.02,0,Active Low-Frequency / Promising
+12637,19,1,125.76,125.76,0,Active Low-Frequency / Promising
+12638,21,20,2908.93,145.45,146,Loyal High-Value Champions
+12639,31,5,598.03,119.61,120,Loyal High-Value Champions
+12640,2,1,86.39,86.39,0,Active Low-Frequency / Promising
+12641,26,3,274.31,91.44,231,Active Low-Frequency / Promising
+12642,16,1,157.56,157.56,0,Active Low-Frequency / Promising
+12643,26,2,253.11,126.56,127,Active Low-Frequency / Promising
+12644,9,1,116.78,116.78,0,Active Low-Frequency / Promising
+12645,144,3,247.21,82.4,355,Hibernating Need-Attention
+12646,59,1,178.65,178.65,0,Active Low-Frequency / Promising
+12647,74,3,313.24,104.41,237,Hibernating Need-Attention
+12648,102,3,308.23,102.74,337,Hibernating Need-Attention
+12649,45,2,566.87,283.44,79,Active Low-Frequency / Promising
+12650,6,1,136.34,136.34,0,Active Low-Frequency / Promising
+12651,51,1,105.92,105.92,0,Active Low-Frequency / Promising
+12652,58,1,168.56,168.56,0,Active Low-Frequency / Promising
+12653,89,1,55.12,55.12,0,Hibernating Need-Attention
+12654,37,1,125.98,125.98,0,Active Low-Frequency / Promising
+12655,9,5,440.51,88.1,35,Loyal High-Value Champions
+12656,22,2,281.69,140.84,71,Active Low-Frequency / Promising
+12657,30,1,169.27,169.27,0,Active Low-Frequency / Promising
+12658,68,1,111.06,111.06,0,Hibernating Need-Attention
+12659,55,1,233.04,233.04,0,Active Low-Frequency / Promising
+12660,29,2,219.55,109.78,227,Active Low-Frequency / Promising
+12661,280,1,171.6,171.6,0,Lost / At-Risk One-Timers
+12662,61,5,321.23,64.25,290,Hibernating Need-Attention
+12663,18,1,116.34,116.34,0,Active Low-Frequency / Promising
+12664,7,20,2177.11,108.86,106,Loyal High-Value Champions
+12665,11,4,318.76,79.69,113,Loyal High-Value Champions
+12666,19,1,146.4,146.4,0,Active Low-Frequency / Promising
+12667,12,5,567.16,113.43,304,Loyal High-Value Champions
+12668,14,1,122.51,122.51,0,Active Low-Frequency / Promising
+12669,22,3,253.96,84.65,214,Active Low-Frequency / Promising
+12670,13,1,124.49,124.49,0,Active Low-Frequency / Promising
+12671,148,4,336.4,84.1,322,Hibernating Need-Attention
+12672,6,4,538.29,134.57,35,Loyal High-Value Champions
+12673,49,3,191.66,63.89,102,Active Low-Frequency / Promising
+12674,35,3,460.64,153.55,90,Active Low-Frequency / Promising
+12675,263,1,88.11,88.11,0,Lost / At-Risk One-Timers
+12676,8,1,89.98,89.98,0,Active Low-Frequency / Promising
+12677,33,1,70.27,70.27,0,Active Low-Frequency / Promising
+12678,227,1,133.1,133.1,0,Lost / At-Risk One-Timers
+12679,131,2,218.38,109.19,324,Hibernating Need-Attention
+12680,111,1,138.9,138.9,0,Hibernating Need-Attention
+12681,20,12,1589.54,132.46,65,Loyal High-Value Champions
+12682,13,2,157.32,78.66,147,Active Low-Frequency / Promising
+12683,72,3,258.62,86.21,166,Hibernating Need-Attention
+12684,173,1,133.67,133.67,0,Hibernating Need-Attention
+12685,53,4,210.21,52.55,261,Hibernating Need-Attention
+12686,56,5,400.76,80.15,153,Hibernating Need-Attention
+12687,22,1,110.0,110.0,0,Active Low-Frequency / Promising
+12688,96,2,191.85,95.92,291,Hibernating Need-Attention
+12689,14,3,254.38,84.79,54,Active Low-Frequency / Promising
+12690,26,1,186.09,186.09,0,Active Low-Frequency / Promising
+12691,37,1,142.66,142.66,0,Active Low-Frequency / Promising
+12692,47,1,115.73,115.73,0,Active Low-Frequency / Promising
+12693,19,1,104.41,104.41,0,Active Low-Frequency / Promising
+12694,8,1,167.15,167.15,0,Active Low-Frequency / Promising
+12695,62,1,98.62,98.62,0,Hibernating Need-Attention
+12696,23,1,277.37,277.37,0,Active Low-Frequency / Promising
+12697,57,1,129.42,129.42,0,Active Low-Frequency / Promising
+12698,11,8,1136.42,142.05,89,Loyal High-Value Champions
+12699,43,1,140.45,140.45,0,Active Low-Frequency / Promising
+12700,50,8,826.01,103.25,226,Hibernating Need-Attention
+12701,4,1,204.1,204.1,0,Active Low-Frequency / Promising
+12702,27,1,72.91,72.91,0,Active Low-Frequency / Promising
+12703,10,1,136.09,136.09,0,Active Low-Frequency / Promising
+12704,5,1,271.74,271.74,0,Active Low-Frequency / Promising
+12705,300,1,236.87,236.87,0,Lost / At-Risk One-Timers
+12706,26,2,173.62,86.81,282,Active Low-Frequency / Promising
+12707,108,1,85.46,85.46,0,Hibernating Need-Attention
+12708,20,2,100.4,50.2,46,Active Low-Frequency / Promising
+12709,75,2,309.86,154.93,95,Hibernating Need-Attention
+12710,93,1,125.56,125.56,0,Hibernating Need-Attention
+12711,59,1,159.92,159.92,0,Active Low-Frequency / Promising
+12712,42,3,296.12,98.71,233,Active Low-Frequency / Promising
+12713,35,1,129.63,129.63,0,Active Low-Frequency / Promising
+12714,28,1,270.95,270.95,0,Active Low-Frequency / Promising
+12715,173,20,1478.25,73.91,315,Hibernating Need-Attention
+12716,116,1,131.88,131.88,0,Hibernating Need-Attention
+12717,218,2,298.43,149.22,300,Lost / At-Risk One-Timers
+12718,9,12,1627.36,135.61,193,Loyal High-Value Champions
+12719,86,1,57.72,57.72,0,Hibernating Need-Attention
+12720,182,1,159.87,159.87,0,Lost / At-Risk One-Timers
+12721,13,1,216.11,216.11,0,Active Low-Frequency / Promising
+12722,5,1,262.88,262.88,0,Active Low-Frequency / Promising
+12723,88,1,100.65,100.65,0,Hibernating Need-Attention
+12724,56,2,190.86,95.43,78,Active Low-Frequency / Promising
+12725,120,1,205.32,205.32,0,Hibernating Need-Attention
+12726,10,1,50.42,50.42,0,Active Low-Frequency / Promising
+12727,104,20,1306.96,65.35,239,Hibernating Need-Attention
+12728,15,3,210.26,70.09,304,Active Low-Frequency / Promising
+12729,12,2,231.72,115.86,284,Active Low-Frequency / Promising
+12730,12,1,130.37,130.37,0,Active Low-Frequency / Promising
+12731,110,2,356.46,178.23,402,Hibernating Need-Attention
+12732,72,1,75.96,75.96,0,Hibernating Need-Attention
+12733,49,1,180.17,180.17,0,Active Low-Frequency / Promising
+12734,29,1,157.86,157.86,0,Active Low-Frequency / Promising
+12735,137,4,537.32,134.33,206,Hibernating Need-Attention
+12736,33,1,203.27,203.27,0,Active Low-Frequency / Promising
+12737,111,1,169.44,169.44,0,Hibernating Need-Attention
+12738,38,1,216.0,216.0,0,Active Low-Frequency / Promising
+12739,31,1,91.44,91.44,0,Active Low-Frequency / Promising
+12740,41,3,358.03,119.34,331,Active Low-Frequency / Promising
+12741,24,2,214.61,107.3,93,Active Low-Frequency / Promising
+12742,90,3,255.37,85.12,356,Hibernating Need-Attention
+12743,46,1,58.35,58.35,0,Active Low-Frequency / Promising
+12744,18,1,108.81,108.81,0,Active Low-Frequency / Promising
+12745,150,1,137.89,137.89,0,Hibernating Need-Attention
+12746,32,1,158.07,158.07,0,Active Low-Frequency / Promising
+12747,51,1,82.65,82.65,0,Active Low-Frequency / Promising
+12748,155,3,413.41,137.8,430,Hibernating Need-Attention
+12749,64,1,217.92,217.92,0,Hibernating Need-Attention
+12750,9,1,195.66,195.66,0,Active Low-Frequency / Promising
+12751,183,1,234.1,234.1,0,Lost / At-Risk One-Timers
+12752,65,1,87.42,87.42,0,Hibernating Need-Attention
+12753,27,1,136.7,136.7,0,Active Low-Frequency / Promising
+12754,10,12,1706.93,142.24,108,Loyal High-Value Champions
+12755,103,3,226.44,75.48,358,Hibernating Need-Attention
+12756,63,8,743.8,92.98,180,Hibernating Need-Attention
+12757,50,1,158.85,158.85,0,Active Low-Frequency / Promising
+12758,146,1,145.95,145.95,0,Hibernating Need-Attention
+12759,102,1,135.72,135.72,0,Hibernating Need-Attention
+12760,11,1,62.59,62.59,0,Active Low-Frequency / Promising
+12761,25,3,188.98,62.99,58,Active Low-Frequency / Promising
+12762,19,1,147.31,147.31,0,Active Low-Frequency / Promising
+12763,89,1,106.22,106.22,0,Hibernating Need-Attention
+12764,3,1,88.71,88.71,0,Active Low-Frequency / Promising
+12765,55,1,163.2,163.2,0,Active Low-Frequency / Promising
+12766,94,2,241.85,120.92,206,Hibernating Need-Attention
+12767,137,1,95.05,95.05,0,Hibernating Need-Attention
+12768,28,1,104.05,104.05,0,Active Low-Frequency / Promising
+12769,112,1,120.96,120.96,0,Hibernating Need-Attention
+12770,8,1,87.95,87.95,0,Active Low-Frequency / Promising
+12771,122,3,327.0,109.0,263,Hibernating Need-Attention
+12772,9,4,536.14,134.04,156,Loyal High-Value Champions
+12773,33,8,790.53,98.82,165,Loyal High-Value Champions
+12774,104,3,354.11,118.04,396,Hibernating Need-Attention
+12775,11,1,221.7,221.7,0,Active Low-Frequency / Promising
+12776,17,2,175.67,87.84,168,Active Low-Frequency / Promising
+12777,84,1,100.04,100.04,0,Hibernating Need-Attention
+12778,83,1,142.52,142.52,0,Hibernating Need-Attention
+12779,67,3,303.36,101.12,155,Hibernating Need-Attention
+12780,77,1,71.0,71.0,0,Hibernating Need-Attention
+12781,51,4,550.99,137.75,86,Hibernating Need-Attention
+12782,19,1,148.47,148.47,0,Active Low-Frequency / Promising
+12783,28,2,342.09,171.04,212,Active Low-Frequency / Promising
+12784,14,2,348.55,174.28,234,Active Low-Frequency / Promising
+12785,156,4,271.99,68.0,372,Hibernating Need-Attention
+12786,57,2,334.34,167.17,261,Active Low-Frequency / Promising
+12787,34,2,154.5,77.25,318,Active Low-Frequency / Promising
+12788,41,1,150.98,150.98,0,Active Low-Frequency / Promising
+12789,192,1,346.47,346.47,0,Lost / At-Risk One-Timers
+12790,11,1,130.37,130.37,0,Active Low-Frequency / Promising
+12791,58,2,299.33,149.66,239,Active Low-Frequency / Promising
+12792,46,1,147.82,147.82,0,Active Low-Frequency / Promising
+12793,62,2,204.24,102.12,332,Hibernating Need-Attention
+12794,2,1,89.72,89.72,0,Active Low-Frequency / Promising
+12795,134,1,159.04,159.04,0,Hibernating Need-Attention
+12796,175,2,134.07,67.04,291,Hibernating Need-Attention
+12797,55,1,113.91,113.91,0,Active Low-Frequency / Promising
+12798,78,1,157.4,157.4,0,Hibernating Need-Attention
+12799,167,1,102.88,102.88,0,Hibernating Need-Attention
+12800,80,8,1035.06,129.38,359,Hibernating Need-Attention
+12801,11,2,419.02,209.51,155,Active Low-Frequency / Promising
+12802,56,1,229.2,229.2,0,Active Low-Frequency / Promising
+12803,61,1,351.04,351.04,0,Hibernating Need-Attention
+12804,36,1,112.39,112.39,0,Active Low-Frequency / Promising
+12805,87,3,617.38,205.79,138,Hibernating Need-Attention
+12806,178,2,274.82,137.41,358,Hibernating Need-Attention
+12807,169,1,79.13,79.13,0,Hibernating Need-Attention
+12808,39,1,95.04,95.04,0,Active Low-Frequency / Promising
+12809,8,1,121.73,121.73,0,Active Low-Frequency / Promising
+12810,273,2,193.3,96.65,480,Lost / At-Risk One-Timers
+12811,119,3,362.02,120.67,208,Hibernating Need-Attention
+12812,9,1,126.17,126.17,0,Active Low-Frequency / Promising
+12813,165,1,105.49,105.49,0,Hibernating Need-Attention
+12814,133,1,116.73,116.73,0,Hibernating Need-Attention
+12815,48,8,1042.13,130.27,80,Hibernating Need-Attention
+12816,59,1,117.13,117.13,0,Active Low-Frequency / Promising
+12817,34,3,210.73,70.24,235,Active Low-Frequency / Promising
+12818,4,2,167.92,83.96,136,Active Low-Frequency / Promising
+12819,27,1,111.72,111.72,0,Active Low-Frequency / Promising
+12820,106,1,163.48,163.48,0,Hibernating Need-Attention
+12821,1,1,87.67,87.67,0,Active Low-Frequency / Promising
+12822,27,2,301.48,150.74,125,Active Low-Frequency / Promising
+12823,34,3,213.17,71.06,199,Active Low-Frequency / Promising
+12824,51,2,162.49,81.24,252,Active Low-Frequency / Promising
+12825,165,1,137.71,137.71,0,Hibernating Need-Attention
+12826,28,1,151.61,151.61,0,Active Low-Frequency / Promising
+12827,28,8,436.85,54.61,118,Loyal High-Value Champions
+12828,87,3,353.39,117.8,354,Hibernating Need-Attention
+12829,40,1,55.71,55.71,0,Active Low-Frequency / Promising
+12830,17,12,1138.76,94.9,142,Loyal High-Value Champions
+12831,40,2,308.35,154.18,322,Active Low-Frequency / Promising
+12832,10,2,192.83,96.42,99,Active Low-Frequency / Promising
+12833,13,2,167.83,83.92,225,Active Low-Frequency / Promising
+12834,45,3,282.01,94.0,132,Active Low-Frequency / Promising
+12835,36,2,300.37,150.18,107,Active Low-Frequency / Promising
+12836,161,1,284.08,284.08,0,Hibernating Need-Attention
+12837,30,1,51.25,51.25,0,Active Low-Frequency / Promising
+12838,57,5,754.27,150.85,260,Hibernating Need-Attention
+12839,66,1,138.47,138.47,0,Hibernating Need-Attention
+12840,1,1,121.09,121.09,0,Active Low-Frequency / Promising
+12841,71,1,124.63,124.63,0,Hibernating Need-Attention
+12842,13,1,173.3,173.3,0,Active Low-Frequency / Promising
+12843,211,2,315.4,157.7,295,Lost / At-Risk One-Timers
+12844,11,5,526.21,105.24,212,Loyal High-Value Champions
+12845,35,1,132.7,132.7,0,Active Low-Frequency / Promising
+12846,6,1,303.91,303.91,0,Active Low-Frequency / Promising
+12847,375,1,108.91,108.91,0,Lost / At-Risk One-Timers
+12848,46,4,470.91,117.73,250,Hibernating Need-Attention
+12849,59,2,162.43,81.22,177,Active Low-Frequency / Promising
+12850,5,1,139.27,139.27,0,Active Low-Frequency / Promising
+12851,91,3,205.52,68.51,132,Hibernating Need-Attention
+12852,16,4,291.74,72.94,247,Loyal High-Value Champions
+12853,149,3,562.44,187.48,294,Hibernating Need-Attention
+12854,15,5,310.19,62.04,76,Loyal High-Value Champions
+12855,14,1,99.65,99.65,0,Active Low-Frequency / Promising
+12856,3,3,214.78,71.59,53,Active Low-Frequency / Promising
+12857,42,1,84.28,84.28,0,Active Low-Frequency / Promising
+12858,55,3,157.7,52.57,186,Active Low-Frequency / Promising
+12859,5,2,208.23,104.12,271,Active Low-Frequency / Promising
+12860,98,3,490.32,163.44,239,Hibernating Need-Attention
+12861,40,2,189.46,94.73,332,Active Low-Frequency / Promising
+12862,49,1,167.93,167.93,0,Active Low-Frequency / Promising
+12863,38,1,118.72,118.72,0,Active Low-Frequency / Promising
+12864,34,12,1061.93,88.49,331,Loyal High-Value Champions
+12865,54,5,540.97,108.19,129,Hibernating Need-Attention
+12866,11,1,123.49,123.49,0,Active Low-Frequency / Promising
+12867,14,1,179.79,179.79,0,Active Low-Frequency / Promising
+12868,129,1,124.75,124.75,0,Hibernating Need-Attention
+12869,190,2,161.31,80.66,388,Lost / At-Risk One-Timers
+12870,31,3,440.2,146.73,269,Active Low-Frequency / Promising
+12871,21,1,154.14,154.14,0,Active Low-Frequency / Promising
+12872,68,1,146.71,146.71,0,Hibernating Need-Attention
+12873,35,3,346.23,115.41,115,Active Low-Frequency / Promising
+12874,2,2,253.82,126.91,75,Active Low-Frequency / Promising
+12875,12,1,119.56,119.56,0,Active Low-Frequency / Promising
+12876,82,2,198.67,99.34,127,Hibernating Need-Attention
+12877,70,1,168.25,168.25,0,Hibernating Need-Attention
+12878,2,1,145.74,145.74,0,Active Low-Frequency / Promising
+12879,17,2,134.11,67.06,110,Active Low-Frequency / Promising
+12880,18,2,187.84,93.92,229,Active Low-Frequency / Promising
+12881,73,4,601.96,150.49,263,Hibernating Need-Attention
+12882,2,2,284.2,142.1,294,Active Low-Frequency / Promising
+12883,8,3,155.93,51.98,214,Active Low-Frequency / Promising
+12884,105,1,156.25,156.25,0,Hibernating Need-Attention
+12885,13,1,279.62,279.62,0,Active Low-Frequency / Promising
+12886,69,1,219.86,219.86,0,Hibernating Need-Attention
+12887,18,1,135.49,135.49,0,Active Low-Frequency / Promising
+12888,7,2,308.08,154.04,232,Active Low-Frequency / Promising
+12889,19,20,2664.63,133.23,116,Loyal High-Value Champions
+12890,84,1,146.34,146.34,0,Hibernating Need-Attention
+12891,126,1,154.19,154.19,0,Hibernating Need-Attention
+12892,116,3,431.04,143.68,282,Hibernating Need-Attention
+12893,33,1,139.98,139.98,0,Active Low-Frequency / Promising
+12894,72,2,179.1,89.55,101,Hibernating Need-Attention
+12895,15,2,359.69,179.84,159,Active Low-Frequency / Promising
+12896,23,2,206.52,103.26,123,Active Low-Frequency / Promising
+12897,148,1,160.54,160.54,0,Hibernating Need-Attention
+12898,1,1,125.63,125.63,0,Active Low-Frequency / Promising
+12899,6,3,225.51,75.17,154,Active Low-Frequency / Promising
+12900,16,2,136.35,68.18,274,Active Low-Frequency / Promising
+12901,2,1,148.03,148.03,0,Active Low-Frequency / Promising
+12902,14,3,243.29,81.1,231,Active Low-Frequency / Promising
+12903,57,1,100.28,100.28,0,Active Low-Frequency / Promising
+12904,36,2,287.92,143.96,100,Active Low-Frequency / Promising
+12905,146,1,79.09,79.09,0,Hibernating Need-Attention
+12906,111,8,1212.4,151.55,409,Hibernating Need-Attention
+12907,28,1,83.32,83.32,0,Active Low-Frequency / Promising
+12908,20,1,116.02,116.02,0,Active Low-Frequency / Promising
+12909,32,1,93.1,93.1,0,Active Low-Frequency / Promising
+12910,59,1,67.35,67.35,0,Active Low-Frequency / Promising
+12911,21,4,176.52,44.13,76,Loyal High-Value Champions
+12912,64,20,2404.88,120.24,192,Hibernating Need-Attention
+12913,35,1,338.0,338.0,0,Active Low-Frequency / Promising
+12914,53,1,233.37,233.37,0,Active Low-Frequency / Promising
+12915,38,2,251.01,125.5,276,Active Low-Frequency / Promising
+12916,23,4,551.6,137.9,227,Loyal High-Value Champions
+12917,193,2,287.87,143.94,281,Lost / At-Risk One-Timers
+12918,94,1,142.09,142.09,0,Hibernating Need-Attention
+12919,10,1,155.17,155.17,0,Active Low-Frequency / Promising
+12920,132,2,298.21,149.1,248,Hibernating Need-Attention
+12921,44,1,143.95,143.95,0,Active Low-Frequency / Promising
+12922,147,2,336.15,168.08,285,Hibernating Need-Attention
+12923,105,1,75.43,75.43,0,Hibernating Need-Attention
+12924,36,3,474.36,158.12,209,Active Low-Frequency / Promising
+12925,2,1,140.52,140.52,0,Active Low-Frequency / Promising
+12926,21,2,303.73,151.86,119,Active Low-Frequency / Promising
+12927,51,1,202.2,202.2,0,Active Low-Frequency / Promising
+12928,66,2,304.18,152.09,119,Hibernating Need-Attention
+12929,20,1,89.67,89.67,0,Active Low-Frequency / Promising
+12930,10,2,349.4,174.7,198,Active Low-Frequency / Promising
+12931,118,2,235.42,117.71,306,Hibernating Need-Attention
+12932,271,2,146.0,73.0,441,Lost / At-Risk One-Timers
+12933,49,2,212.38,106.19,139,Active Low-Frequency / Promising
+12934,13,2,254.4,127.2,35,Active Low-Frequency / Promising
+12935,21,3,214.75,71.58,72,Active Low-Frequency / Promising
+12936,2,1,152.86,152.86,0,Active Low-Frequency / Promising
+12937,160,3,321.38,107.13,222,Hibernating Need-Attention
+12938,9,1,154.12,154.12,0,Active Low-Frequency / Promising
+12939,56,1,71.74,71.74,0,Active Low-Frequency / Promising
+12940,21,1,139.98,139.98,0,Active Low-Frequency / Promising
+12941,53,1,220.29,220.29,0,Active Low-Frequency / Promising
+12942,69,3,222.26,74.09,268,Hibernating Need-Attention
+12943,116,2,262.14,131.07,359,Hibernating Need-Attention
+12944,16,3,375.75,125.25,41,Active Low-Frequency / Promising
+12945,1,1,52.11,52.11,0,Active Low-Frequency / Promising
+12946,10,1,150.72,150.72,0,Active Low-Frequency / Promising
+12947,150,1,142.1,142.1,0,Hibernating Need-Attention
+12948,135,1,89.52,89.52,0,Hibernating Need-Attention
+12949,60,1,155.94,155.94,0,Active Low-Frequency / Promising
+12950,60,1,132.23,132.23,0,Active Low-Frequency / Promising
+12951,72,1,206.77,206.77,0,Hibernating Need-Attention
+12952,13,2,420.98,210.49,158,Active Low-Frequency / Promising
+12953,160,2,188.86,94.43,388,Hibernating Need-Attention
+12954,36,20,2839.35,141.97,152,Loyal High-Value Champions
+12955,32,5,683.43,136.69,125,Loyal High-Value Champions
+12956,48,2,370.87,185.44,182,Active Low-Frequency / Promising
+12957,4,1,161.99,161.99,0,Active Low-Frequency / Promising
+12958,12,2,142.89,71.44,201,Active Low-Frequency / Promising
+12959,88,3,388.34,129.45,311,Hibernating Need-Attention
+12960,6,1,104.14,104.14,0,Active Low-Frequency / Promising
+12961,61,1,102.94,102.94,0,Hibernating Need-Attention
+12962,19,3,232.2,77.4,79,Active Low-Frequency / Promising
+12963,33,1,191.4,191.4,0,Active Low-Frequency / Promising
+12964,23,2,269.01,134.5,57,Active Low-Frequency / Promising
+12965,29,2,311.67,155.84,110,Active Low-Frequency / Promising
+12966,83,1,138.27,138.27,0,Hibernating Need-Attention
+12967,23,1,103.88,103.88,0,Active Low-Frequency / Promising
+12968,55,1,188.56,188.56,0,Active Low-Frequency / Promising
+12969,43,1,119.94,119.94,0,Active Low-Frequency / Promising
+12970,71,1,263.96,263.96,0,Hibernating Need-Attention
+12971,180,3,213.09,71.03,313,Hibernating Need-Attention
+12972,86,1,142.58,142.58,0,Hibernating Need-Attention
+12973,16,1,182.59,182.59,0,Active Low-Frequency / Promising
+12974,3,1,98.12,98.12,0,Active Low-Frequency / Promising
+12975,20,5,331.15,66.23,128,Loyal High-Value Champions
+12976,59,1,155.77,155.77,0,Active Low-Frequency / Promising
+12977,4,1,81.17,81.17,0,Active Low-Frequency / Promising
+12978,45,4,472.22,118.06,267,Loyal High-Value Champions
+12979,60,3,467.95,155.98,153,Active Low-Frequency / Promising
+12980,27,1,177.44,177.44,0,Active Low-Frequency / Promising
+12981,96,3,279.45,93.15,216,Hibernating Need-Attention
+12982,8,1,130.24,130.24,0,Active Low-Frequency / Promising
+12983,6,1,142.7,142.7,0,Active Low-Frequency / Promising
+12984,85,1,185.1,185.1,0,Hibernating Need-Attention
+12985,45,1,279.62,279.62,0,Active Low-Frequency / Promising
+12986,76,2,96.38,48.19,215,Hibernating Need-Attention
+12987,38,1,125.42,125.42,0,Active Low-Frequency / Promising
+12988,19,1,139.61,139.61,0,Active Low-Frequency / Promising
+12989,112,2,372.06,186.03,347,Hibernating Need-Attention
+12990,105,3,183.52,61.17,353,Hibernating Need-Attention
+12991,78,1,139.86,139.86,0,Hibernating Need-Attention
+12992,21,2,271.41,135.71,177,Active Low-Frequency / Promising
+12993,58,1,86.25,86.25,0,Active Low-Frequency / Promising
+12994,30,3,197.38,65.79,166,Active Low-Frequency / Promising
+12995,7,2,299.54,149.77,120,Active Low-Frequency / Promising
+12996,163,8,478.75,59.84,350,Hibernating Need-Attention
+12997,10,1,99.17,99.17,0,Active Low-Frequency / Promising
+12998,196,1,109.65,109.65,0,Lost / At-Risk One-Timers
+12999,39,1,144.65,144.65,0,Active Low-Frequency / Promising
